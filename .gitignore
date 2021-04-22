@@ -1,6 +1,11 @@
+info.txt
+
 func.json
-/03-powerOfTwo
 
 01-oneToHundredNotNumber/bin/
 01-oneToHundredNotNumber/obj/
-#01-oneToHundredNotNumber/01-oneToHundredNotNumber.csproj/
+01-oneToHundredNotNumber/01-oneToHundredNotNumber.csproj
+
+02-palindrome/info.txt
+
+/03-powerOfTwo
